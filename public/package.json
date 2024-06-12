@@ -18,7 +18,7 @@
     "ag-grid-community": "^30.0.3",
     "ag-grid-react": "^30.0.4",
     "autoprefixer": "10.4.14",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.6",
     "mapbox-gl": "^2.15.0",
